@@ -53,3 +53,4 @@ This app includes:
 - Service worker for offline functionality
 - Web app manifest for installation
 - Responsive design for all devices
+- GPG-signed commits for security verification
